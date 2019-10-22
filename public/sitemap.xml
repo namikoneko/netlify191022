@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://festive-dijkstra-2d06ec.netlify.com/posts/my-first-post/</loc>
+    <lastmod>2019-10-22T10:44:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://festive-dijkstra-2d06ec.netlify.com/</loc>
+    <lastmod>2019-10-22T10:44:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://festive-dijkstra-2d06ec.netlify.com/posts/</loc>
+    <lastmod>2019-10-22T10:44:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://festive-dijkstra-2d06ec.netlify.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://festive-dijkstra-2d06ec.netlify.com/tags/</loc>
+  </url>
+  
+</urlset>

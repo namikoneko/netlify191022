@@ -5,3 +5,5 @@ draft: 0
 ---
 contents
 
+![マイケル1](/30329.png)
+
